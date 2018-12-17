@@ -1,0 +1,10 @@
+body {
+    background-image: url("../imgaes/background.jpg");
+    background-size: cover;
+}
+
+.jumbotron {
+    background-image: url("../imgaes/hqdefault.jpg");
+    background-size: cover;
+    color: white;
+}
