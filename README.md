@@ -1,4 +1,4 @@
-# HW7-trainscheduler
+# Trainscheduler
 
 ## Homework Goals
 
@@ -10,4 +10,4 @@ Homework assigment was to setup a train scheduler website that would show you ti
 
 ### Portfolio
 
-<https://sayex.github.io/HW2-ResponsivePortfolio/>
+<https://sayex.github.io/Responsive-Portfolio/>

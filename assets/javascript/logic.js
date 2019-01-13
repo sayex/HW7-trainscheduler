@@ -64,6 +64,19 @@ $(document).ready(function () {
         <td>${minAway}</td>`;
 
         $("tbody").append(myTD);
+
+        var newImg = `<div class="col-md-4 col-sm-6">
+        <a href="${albumImage}" data-lightbox="image-1">
+        <div class="thumb">
+        <div class="hover-effect">
+        <h1>Bands <em>in town</em></h1>
+        <p>Search your favorite bands</p></div>
+        </div>
+        <div class="image">
+        <img src="${albumImage}">
+        </div>
+        </div></a>
+        </div>`
     })
 
 
